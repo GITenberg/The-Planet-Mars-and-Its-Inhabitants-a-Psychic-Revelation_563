@@ -1,0 +1,23 @@
+_repo: The-Planet-Mars-and-Its-Inhabitants-a-Psychic-Revelation_563
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kennon, J. L.
+    gutenberg_agent_id: '287'
+    url: http://www.gutenberg.org/2009/agents/287
+description: ''
+gutenberg_issued: '1996-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '563'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spiritualism'
+- !lcc 'BF'
+- !lcsh 'Mars (Planet) -- Miscellanea'
+- GITenberg
+title: The Planet Mars and Its Inhabitants, a Psychic Revelation
+url: http://www.gutenberg.org/ebooks/563
